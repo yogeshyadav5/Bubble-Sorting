@@ -7,7 +7,7 @@ WORKING OF BUBBLE SORT
 
 STEPS ARE :-
 
-Starting from the first index, compare the first and the sceond element .
-if the first elements is greater than the second elements, they are Swapped.
-Now, compare the second and the third elements . Swap them if they are not in order.
-this goes on until the last element . the same process goes on for the remaining iterations. After each iteration , the largest element among the unsorted element is placed at the end.
+1. Starting from the first index, compare the first and the sceond element .
+2. if the first elements is greater than the second elements, they are Swapped.
+3. Now, compare the second and the third elements . Swap them if they are not in order.
+4. this goes on until the last element . the same process goes on for the remaining iterations. After each iteration , the largest element among the unsorted element is placed at    the end.
