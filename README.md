@@ -1,6 +1,6 @@
 # Bubble-Sorting
 
-First of all question is that bubble sort?
+First of all question is that what is  bubble sort?
 Bubble sort is an aglorithm in which it compares two adjacent elements and swaps them if they are not in the intended order. if list with n elements then it requires n-1 passes for sorting. 
 complexity in bubble sort for worst case is O(n^2) , for average case O(n^2) and for best case O(n).
 
